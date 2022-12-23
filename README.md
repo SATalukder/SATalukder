@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on HTML,HTML5,CSS,CSS3,Bootstrap,JavaScript,API,React,React Native
-- 🌱 I’m currently learning React,Python
+- 🔭 I’m currently working on HTML,HTML5,CSS,CSS3,JavaScript,API,React,React Native
+- 🌱 I’m currently learning Css Frameworks Bootstrap Tailwind, React,Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
